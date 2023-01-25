@@ -14,7 +14,6 @@
     --font-1    : "Lora", serif;
     --font-2    : "Gothic A1", sans-serif;
     --font-3    : "Marcellus", serif;
-    --font-4    : 'Bodoni Moda', serif;
 
     /* monospace
     */
@@ -3848,6 +3847,10 @@ input:checked ~ label .cross:after {
 
 .card5 {
     background-image: url(../images/cards/chromeCard.jpg);
+}
+
+.card6 {
+    background-image: url(../images/cards/chromeArch.JPG);
 }
 
 /* ------------------------------------------------------------------- 
